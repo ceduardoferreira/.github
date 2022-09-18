@@ -1,3 +1,3 @@
-## Boas-vindas ao Quest Ambiental 👋
+## Boas-vindas ao Projeto S.A.L.A 👋
 
-Quest Ambiental é uma abordagem lúdica sobre a importância da preservação do meio ambiente alagoano. 
+//Descrição
